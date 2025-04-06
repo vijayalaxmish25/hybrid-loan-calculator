@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.99d31ffe.css",
-    "main.js": "/static/js/main.2ea4c990.js",
-    "static/js/453.0ec39399.chunk.js": "/static/js/453.0ec39399.chunk.js",
-    "index.html": "/index.html",
-    "main.99d31ffe.css.map": "/static/css/main.99d31ffe.css.map",
-    "main.2ea4c990.js.map": "/static/js/main.2ea4c990.js.map",
-    "453.0ec39399.chunk.js.map": "/static/js/453.0ec39399.chunk.js.map"
+    "main.css": "/hybrid-loan-calculator/static/css/main.99d31ffe.css",
+    "main.js": "/hybrid-loan-calculator/static/js/main.0fd2c86f.js",
+    "static/js/453.0ec39399.chunk.js": "/hybrid-loan-calculator/static/js/453.0ec39399.chunk.js",
+    "index.html": "/hybrid-loan-calculator/index.html",
+    "main.99d31ffe.css.map": "/hybrid-loan-calculator/static/css/main.99d31ffe.css.map",
+    "main.0fd2c86f.js.map": "/hybrid-loan-calculator/static/js/main.0fd2c86f.js.map",
+    "453.0ec39399.chunk.js.map": "/hybrid-loan-calculator/static/js/453.0ec39399.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99d31ffe.css",
-    "static/js/main.2ea4c990.js"
+    "static/js/main.0fd2c86f.js"
   ]
 }
