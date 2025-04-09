@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hybrid-loan-calculator/static/css/main.c461c07b.css",
-    "main.js": "/hybrid-loan-calculator/static/js/main.3d478b18.js",
+    "main.css": "/hybrid-loan-calculator/static/css/main.529f3064.css",
+    "main.js": "/hybrid-loan-calculator/static/js/main.a9022848.js",
     "static/js/453.0ec39399.chunk.js": "/hybrid-loan-calculator/static/js/453.0ec39399.chunk.js",
     "index.html": "/hybrid-loan-calculator/index.html",
-    "main.c461c07b.css.map": "/hybrid-loan-calculator/static/css/main.c461c07b.css.map",
-    "main.3d478b18.js.map": "/hybrid-loan-calculator/static/js/main.3d478b18.js.map",
+    "main.529f3064.css.map": "/hybrid-loan-calculator/static/css/main.529f3064.css.map",
+    "main.a9022848.js.map": "/hybrid-loan-calculator/static/js/main.a9022848.js.map",
     "453.0ec39399.chunk.js.map": "/hybrid-loan-calculator/static/js/453.0ec39399.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c461c07b.css",
-    "static/js/main.3d478b18.js"
+    "static/css/main.529f3064.css",
+    "static/js/main.a9022848.js"
   ]
 }
